@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1403289218485" name="duplicate:http://sebk.me/MOOC.owl" uri="MOOC.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1403289218485" name="duplicate:http://sebk.me/MOOC.owl" uri="MOOC.rdf"/>
+    </group>
+</catalog>

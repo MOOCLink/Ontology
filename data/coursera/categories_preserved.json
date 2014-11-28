@@ -1,0 +1,235 @@
+{
+    "elements": [
+        {
+            "shortName": "math", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 5, 
+            "links": {}, 
+            "name": "Mathematics"
+        }, 
+        {
+            "shortName": "biology", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 10, 
+            "links": {}, 
+            "name": "Biology & Life Sciences"
+        }, 
+        {
+            "shortName": "chemistry", 
+            "description": "", 
+            "id": 24, 
+            "links": {}, 
+            "name": "Chemistry"
+        }, 
+        {
+            "shortName": "energy", 
+            "description": "", 
+            "id": 25, 
+            "links": {}, 
+            "name": "Energy & Earth Sciences"
+        }, 
+        {
+            "shortName": "education", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 14, 
+            "links": {}, 
+            "name": "Education"
+        }, 
+        {
+            "shortName": "socsci", 
+            "description": "", 
+            "id": 20, 
+            "links": {}, 
+            "name": "Social Sciences"
+        }, 
+        {
+            "shortName": "cs-theory", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 1, 
+            "links": {}, 
+            "name": "Computer Science: Theory"
+        }, 
+        {
+            "shortName": "humanities", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 6, 
+            "links": {}, 
+            "name": "Humanities "
+        }, 
+        {
+            "shortName": "law", 
+            "description": "", 
+            "id": 21, 
+            "links": {}, 
+            "name": "Law"
+        }, 
+        {
+            "shortName": "physical", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 9, 
+            "links": {}, 
+            "name": "Physical & Earth Sciences"
+        }, 
+        {
+            "shortName": "business", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 13, 
+            "links": {}, 
+            "name": "Business & Management"
+        }, 
+        {
+            "shortName": "economics", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 2, 
+            "links": {}, 
+            "name": "Economics & Finance"
+        }, 
+        {
+            "shortName": "cs-ai", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 17, 
+            "links": {}, 
+            "name": "Computer Science: Artificial Intelligence"
+        }, 
+        {
+            "shortName": "arts", 
+            "description": "", 
+            "id": 22, 
+            "links": {}, 
+            "name": "Arts"
+        }, 
+        {
+            "shortName": "cs-programming", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 12, 
+            "links": {}, 
+            "name": "Computer Science: Software Engineering"
+        }, 
+        {
+            "shortName": "medicine", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 3, 
+            "links": {}, 
+            "name": "Medicine"
+        }, 
+        {
+            "shortName": "music", 
+            "description": "", 
+            "id": 18, 
+            "links": {}, 
+            "name": "Music, Film, and Audio"
+        }, 
+        {
+            "shortName": "stats", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 16, 
+            "links": {}, 
+            "name": "Statistics and Data Analysis"
+        }, 
+        {
+            "shortName": "cs-systems", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 11, 
+            "links": {}, 
+            "name": "Computer Science: Systems & Security"
+        }, 
+        {
+            "shortName": "teacherpd", 
+            "description": "", 
+            "id": 26, 
+            "links": {}, 
+            "name": "Teacher Professional Development"
+        }, 
+        {
+            "shortName": "physics", 
+            "description": "", 
+            "id": 23, 
+            "links": {}, 
+            "name": "Physics"
+        }, 
+        {
+            "shortName": "health", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 8, 
+            "links": {}, 
+            "name": "Health & Society"
+        }, 
+        {
+            "shortName": "food", 
+            "description": "", 
+            "id": 19, 
+            "links": {}, 
+            "name": "Food and Nutrition"
+        }, 
+        {
+            "shortName": "infotech", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 4, 
+            "links": {}, 
+            "name": "Information, Tech & Design"
+        }, 
+        {
+            "shortName": "ee", 
+            "description": "Our wide range of courses allows students to explore topics from many different fields of study. Sign up for a class today and join our global community of students and scholars!", 
+            "id": 15, 
+            "links": {}, 
+            "name": "Engineering"
+        },
+        {
+            "shortName": "com", 
+            "id": 301, 
+            "name": "Communication"
+        },
+        {
+            "shortName": "electronics",
+            "id": 302,
+            "name": "Electronics"
+        },
+        {
+            "shortName": "env-studies",
+            "id": 303,
+            "name": "Environmental Studies"
+        },
+        {
+            "shortName": "history",
+            "id": 304,
+            "name": "History"
+        },
+        {
+            "shortName": "lit",
+            "id": 305,
+            "name": "Literature"
+        },
+        {
+            "shortName": "philanthropy",
+            "id": 306,
+            "name": "Philanthropy"
+        },
+        {
+            "shortName": "philosophy-ethics",
+            "id": 307,
+            "name": "Philosophy & Ethics"
+        },
+        {
+            "shortName": "science",
+            "id": 308,
+            "name": "Science"
+        },
+        {
+            "shortName": "architecture",
+            "id": 309,
+            "name": "Architecture"
+        },
+        {
+            "shortName": "x-series",
+            "id": 310,
+            "name": "XSeries Courses"
+        },
+        {
+            "shortName": "cs-gen",
+            "id": 999,
+            "name": "Computer Science"
+        }
+    ], 
+    "linked": {}
+}

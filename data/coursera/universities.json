@@ -1,0 +1,803 @@
+{
+    "elements": [
+        {
+            "website": "http://unm.edu/", 
+            "shortName": "newmexico", 
+            "id": 120, 
+            "links": {}, 
+            "name": "University of New Mexico"
+        }, 
+        {
+            "website": "http://www.ucsf.edu/", 
+            "shortName": "ucsf", 
+            "id": 10, 
+            "links": {}, 
+            "name": "University of California, San Francisco"
+        }, 
+        {
+            "website": "http://www.ucsc.edu/", 
+            "shortName": "ucsc", 
+            "id": 56, 
+            "links": {}, 
+            "name": "University of California, Santa Cruz"
+        }, 
+        {
+            "website": "http://new.huji.ac.il/en", 
+            "shortName": "huji", 
+            "id": 24, 
+            "links": {}, 
+            "name": "Hebrew University of Jerusalem"
+        }, 
+        {
+            "website": "http://www.vanderbilt.edu/", 
+            "shortName": "vanderbilt", 
+            "id": 37, 
+            "links": {}, 
+            "name": "Vanderbilt University"
+        }, 
+        {
+            "website": "http://www.leiden.edu/", 
+            "shortName": "leiden", 
+            "id": 25, 
+            "links": {}, 
+            "name": "Universiteit Leiden"
+        }, 
+        {
+            "website": "http://www.ed.ac.uk/", 
+            "shortName": "edinburgh", 
+            "id": 14, 
+            "links": {}, 
+            "name": "The University of Edinburgh"
+        }, 
+        {
+            "website": "http://english.tau.ac.il/", 
+            "shortName": "telaviv", 
+            "id": 110, 
+            "links": {}, 
+            "name": "Tel Aviv University"
+        }, 
+        {
+            "website": "", 
+            "shortName": "utsystem", 
+            "id": 125, 
+            "links": {}, 
+            "name": "University of Tennessee System"
+        }, 
+        {
+            "website": "http://www.unibocconi.eu/", 
+            "shortName": "bocconi", 
+            "id": 157, 
+            "links": {}, 
+            "name": "Universit\u00e0 Bocconi"
+        }, 
+        {
+            "website": "http://www.uzh.ch/", 
+            "shortName": "zurich", 
+            "id": 93, 
+            "links": {}, 
+            "name": "University of Zurich"
+        }, 
+        {
+            "website": "http://www.dtu.dk/", 
+            "shortName": "dtu", 
+            "id": 57, 
+            "links": {}, 
+            "name": "Technical University of Denmark (DTU)"
+        }, 
+        {
+            "website": "http://www.tum.de/", 
+            "shortName": "tum", 
+            "id": 78, 
+            "links": {}, 
+            "name": "Technische Universit\u00e4t M\u00fcnchen (TUM)"
+        }, 
+        {
+            "website": "http://www.ubc.ca/", 
+            "shortName": "ubc", 
+            "id": 29, 
+            "links": {}, 
+            "name": "The University of British Columbia"
+        }, 
+        {
+            "website": "http://spbu.ru/", 
+            "shortName": "spbu", 
+            "id": 179, 
+            "links": {}, 
+            "name": "Saint Petersburg State University"
+        }, 
+        {
+            "website": "http://www.cet1886.org/", 
+            "shortName": "cet1886", 
+            "id": 106, 
+            "links": {}, 
+            "name": "Commonwealth Education Trust"
+        }, 
+        {
+            "website": "http://www.ntu.edu.sg/", 
+            "shortName": "ntu", 
+            "id": 121, 
+            "links": {}, 
+            "name": "Nanyang Technological University, Singapore"
+        }, 
+        {
+            "website": "http://www.manchester.ac.uk/", 
+            "shortName": "manchester", 
+            "id": 147, 
+            "links": {}, 
+            "name": "University of Manchester"
+        }, 
+        {
+            "website": "http://www.ie.edu/", 
+            "shortName": "ie", 
+            "id": 61, 
+            "links": {}, 
+            "name": "IE Business School"
+        }, 
+        {
+            "website": "http://www.usp.br/", 
+            "shortName": "usp", 
+            "id": 221, 
+            "links": {}, 
+            "name": "Universidade de S\u00e3o Paulo"
+        }, 
+        {
+            "website": "http://wvu.edu/", 
+            "shortName": "wvu", 
+            "id": 116, 
+            "links": {}, 
+            "name": "West Virginia University"
+        }, 
+        {
+            "website": "", 
+            "shortName": "stanford", 
+            "id": 1, 
+            "links": {}, 
+            "name": "Stanford University"
+        }, 
+        {
+            "website": "http://www.uniroma1.it/", 
+            "shortName": "sapienza", 
+            "id": 74, 
+            "links": {}, 
+            "name": "Sapienza University of Rome"
+        }, 
+        {
+            "website": "http://openlearning.upenn.edu/", 
+            "shortName": "penn", 
+            "id": 6, 
+            "links": {}, 
+            "name": "University of Pennsylvania"
+        }, 
+        {
+            "website": "http://www.rochester.edu/", 
+            "shortName": "rochester", 
+            "id": 60, 
+            "links": {}, 
+            "name": "University of Rochester"
+        }, 
+        {
+            "website": "", 
+            "shortName": "suny", 
+            "id": 117, 
+            "links": {}, 
+            "name": "State University of New York"
+        }, 
+        {
+            "website": "http://www.uchicago.edu/", 
+            "shortName": "chicago", 
+            "id": 102, 
+            "links": {}, 
+            "name": "The University of Chicago"
+        }, 
+        {
+            "website": "http://www.osu.edu/", 
+            "shortName": "osu", 
+            "id": 28, 
+            "links": {}, 
+            "name": "The Ohio State University"
+        }, 
+        {
+            "website": "http://www.hse.ru/", 
+            "shortName": "hse", 
+            "id": 160, 
+            "links": {}, 
+            "name": "Higher School of Economics"
+        }, 
+        {
+            "website": "http://online.berklee.edu/", 
+            "shortName": "berklee", 
+            "id": 21, 
+            "links": {}, 
+            "name": "Berklee College of Music"
+        }, 
+        {
+            "website": "http://www.unimelb.edu.au/", 
+            "shortName": "unimelb", 
+            "id": 33, 
+            "links": {}, 
+            "name": "The University of Melbourne"
+        }, 
+        {
+            "website": "http://www.wisc.edu/", 
+            "shortName": "wisconsin", 
+            "id": 65, 
+            "links": {}, 
+            "name": "University of Wisconsin\u2013Madison"
+        }, 
+        {
+            "website": "http://fundacaolemann.org.br/", 
+            "shortName": "lemann", 
+            "id": 224, 
+            "links": {}, 
+            "name": "Funda\u00e7\u00e3o Lemann"
+        }, 
+        {
+            "website": "http://www.uwa.edu.au/", 
+            "shortName": "uwa", 
+            "id": 156, 
+            "links": {}, 
+            "name": "University of Western Australia"
+        }, 
+        {
+            "website": "http://www.gatech.edu/", 
+            "shortName": "gatech", 
+            "id": 9, 
+            "links": {}, 
+            "name": "Georgia Institute of Technology"
+        }, 
+        {
+            "website": "http://www.fudan.edu.cn/", 
+            "shortName": "fudan", 
+            "id": 188, 
+            "links": {}, 
+            "name": "Fudan University"
+        }, 
+        {
+            "website": "http://ucsd.edu/", 
+            "shortName": "ucsd", 
+            "id": 53, 
+            "links": {}, 
+            "name": "University of California, San Diego "
+        }, 
+        {
+            "website": "http://online.yale.edu/", 
+            "shortName": "yale", 
+            "id": 109, 
+            "links": {}, 
+            "name": "Yale University"
+        }, 
+        {
+            "website": "http://online.nebraska.edu/", 
+            "shortName": "nebraska", 
+            "id": 124, 
+            "links": {}, 
+            "name": "University of Nebraska"
+        }, 
+        {
+            "website": "http://www.unc.edu/", 
+            "shortName": "unc", 
+            "id": 77, 
+            "links": {}, 
+            "name": "The University of North Carolina at Chapel Hill"
+        }, 
+        {
+            "website": "http://rice.edu/", 
+            "shortName": "rice", 
+            "id": 13, 
+            "links": {}, 
+            "name": "Rice University"
+        }, 
+        {
+            "website": "http://www.technion.ac.il/en", 
+            "shortName": "technion", 
+            "id": 129, 
+            "links": {}, 
+            "name": "Technion - Israel Institute of Technology"
+        }, 
+        {
+            "website": "http://www.worldbank.org/", 
+            "shortName": "worldbank", 
+            "id": 73, 
+            "links": {}, 
+            "name": "The World Bank"
+        }, 
+        {
+            "website": "http://www.ecp.fr/", 
+            "shortName": "ecp", 
+            "id": 128, 
+            "links": {}, 
+            "name": "\u00c9cole Centrale Paris"
+        }, 
+        {
+            "website": "http://www.matcheducation.org/", 
+            "shortName": "mtr", 
+            "id": 105, 
+            "links": {}, 
+            "name": "Match Teacher Residency"
+        }, 
+        {
+            "website": "http://www.umd.edu/", 
+            "shortName": "umd", 
+            "id": 32, 
+            "links": {}, 
+            "name": "University of Maryland, College Park"
+        }, 
+        {
+            "website": "http://www.wesleyan.edu/", 
+            "shortName": "wesleyan", 
+            "id": 34, 
+            "links": {}, 
+            "name": "Wesleyan University"
+        }, 
+        {
+            "website": "http://www.mcmaster.ca/", 
+            "shortName": "mcmaster", 
+            "id": 148, 
+            "links": {}, 
+            "name": "McMaster University"
+        }, 
+        {
+            "website": "http://www.cuhk.edu.hk/", 
+            "shortName": "cuhk", 
+            "id": 45, 
+            "links": {}, 
+            "name": "The Chinese University of Hong Kong"
+        }, 
+        {
+            "website": "http://www.hec.edu/", 
+            "shortName": "hec", 
+            "id": 161, 
+            "links": {}, 
+            "name": "HEC Paris"
+        }, 
+        {
+            "website": "http://www.en.lmu.de/", 
+            "shortName": "lmu", 
+            "id": 64, 
+            "links": {}, 
+            "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen (LMU)"
+        }, 
+        {
+            "website": "http://illinois.edu/", 
+            "shortName": "illinois", 
+            "id": 17, 
+            "links": {}, 
+            "name": "University of Illinois at Urbana-Champaign"
+        }, 
+        {
+            "website": "http://mipt.ru/", 
+            "shortName": "mipt", 
+            "id": 176, 
+            "links": {}, 
+            "name": "Moscow Institute of Physics and Technology"
+        }, 
+        {
+            "website": "http://www.brown.edu/", 
+            "shortName": "brown", 
+            "id": 22, 
+            "links": {}, 
+            "name": "Brown University"
+        }, 
+        {
+            "website": "http://calarts.edu/", 
+            "shortName": "calarts", 
+            "id": 59, 
+            "links": {}, 
+            "name": "California Institute of the Arts"
+        }, 
+        {
+            "website": "http://icahn.mssm.edu/", 
+            "shortName": "mssm", 
+            "id": 27, 
+            "links": {}, 
+            "name": "Icahn School of Medicine at Mount Sinai"
+        }, 
+        {
+            "website": "http://www.colorado.edu/", 
+            "shortName": "boulder", 
+            "id": 71, 
+            "links": {}, 
+            "name": "University of Colorado Boulder"
+        }, 
+        {
+            "website": "http://caltech.edu/", 
+            "shortName": "caltech", 
+            "id": 12, 
+            "links": {}, 
+            "name": "Caltech"
+        }, 
+        {
+            "website": "http://www.northwestern.edu/", 
+            "shortName": "northwestern", 
+            "id": 54, 
+            "links": {}, 
+            "name": "Northwestern University"
+        }, 
+        {
+            "website": "http://www.unige.ch/", 
+            "shortName": "unige", 
+            "id": 49, 
+            "links": {}, 
+            "name": "University of Geneva"
+        }, 
+        {
+            "website": "http://www.unil.ch/", 
+            "shortName": "unil", 
+            "id": 159, 
+            "links": {}, 
+            "name": "University of Lausanne"
+        }, 
+        {
+            "website": "http://www.iese.edu/", 
+            "shortName": "iese", 
+            "id": 172, 
+            "links": {}, 
+            "name": "IESE Business School"
+        }, 
+        {
+            "website": "http://www.u-tokyo.ac.jp/en/", 
+            "shortName": "utokyo", 
+            "id": 76, 
+            "links": {}, 
+            "name": "The University of Tokyo"
+        }, 
+        {
+            "website": "http://duke.edu/", 
+            "shortName": "duke", 
+            "id": 7, 
+            "links": {}, 
+            "name": "Duke University"
+        }, 
+        {
+            "website": "http://www.unicamp.br/", 
+            "shortName": "unicamp", 
+            "id": 208, 
+            "links": {}, 
+            "name": "Universidade Estadual de Campinas"
+        }, 
+        {
+            "website": "http://www.newteachercenter.org/", 
+            "shortName": "ntc", 
+            "id": 103, 
+            "links": {}, 
+            "name": "New Teacher Center"
+        }, 
+        {
+            "website": "http://www.polytechnique.edu/", 
+            "shortName": "ep", 
+            "id": 66, 
+            "links": {}, 
+            "name": "\u00c9cole Polytechnique"
+        }, 
+        {
+            "website": "http://www.unsw.edu.au/", 
+            "shortName": "unsw", 
+            "id": 155, 
+            "links": {}, 
+            "name": "UNSW Australia (The University of New South Wales)"
+        }, 
+        {
+            "website": "http://www.exploratorium.edu/", 
+            "shortName": "exploratorium", 
+            "id": 108, 
+            "links": {}, 
+            "name": "Exploratorium"
+        }, 
+        {
+            "website": "http://www.ens.fr/", 
+            "shortName": "ens", 
+            "id": 130, 
+            "links": {}, 
+            "name": "\u00c9cole normale sup\u00e9rieure"
+        }, 
+        {
+            "website": "http://essec.fr/", 
+            "shortName": "essec", 
+            "id": 223, 
+            "links": {}, 
+            "name": "ESSEC Business School"
+        }, 
+        {
+            "website": "http://www.umich.edu/", 
+            "shortName": "umich", 
+            "id": 3, 
+            "links": {}, 
+            "name": "University of Michigan"
+        }, 
+        {
+            "website": "http://www.uab.es/", 
+            "shortName": "uab", 
+            "id": 80, 
+            "links": {}, 
+            "name": "Universitat Aut\u00f2noma de Barcelona"
+        }, 
+        {
+            "website": "", 
+            "shortName": "hkust", 
+            "id": 35, 
+            "links": {}, 
+            "name": "The Hong Kong University of Science and Technology"
+        }, 
+        {
+            "website": "http://www.usg.edu/", 
+            "shortName": "usg", 
+            "id": 123, 
+            "links": {}, 
+            "name": "University System of Georgia"
+        }, 
+        {
+            "website": "http://www.ku.dk/english", 
+            "shortName": "ucph", 
+            "id": 63, 
+            "links": {}, 
+            "name": "University of Copenhagen"
+        }, 
+        {
+            "website": "", 
+            "shortName": "uva", 
+            "id": 18, 
+            "links": {}, 
+            "name": "University of Virginia"
+        }, 
+        {
+            "website": "http://www.sjtu.edu.cn/", 
+            "shortName": "sjtu", 
+            "id": 150, 
+            "links": {}, 
+            "name": "Shanghai Jiao Tong University"
+        }, 
+        {
+            "website": "http://www.umn.edu/", 
+            "shortName": "minnesota", 
+            "id": 50, 
+            "links": {}, 
+            "name": "University of Minnesota"
+        }, 
+        {
+            "website": "http://www.rutgers.edu/", 
+            "shortName": "rutgers", 
+            "id": 67, 
+            "links": {}, 
+            "name": "Rutgers University"
+        }, 
+        {
+            "website": "http://www.lunduniversity.lu.se/", 
+            "shortName": "lunduniversity", 
+            "id": 199, 
+            "links": {}, 
+            "name": "Lund University"
+        }, 
+        {
+            "website": "http://www.tue.nl/en", 
+            "shortName": "tue", 
+            "id": 177, 
+            "links": {}, 
+            "name": "Eindhoven University of Technology"
+        }, 
+        {
+            "website": "http://www.ku.edu.tr/", 
+            "shortName": "koc", 
+            "id": 182, 
+            "links": {}, 
+            "name": "Ko\u00e7 University"
+        }, 
+        {
+            "website": "http://www.epfl.ch/", 
+            "shortName": "epfl", 
+            "id": 16, 
+            "links": {}, 
+            "name": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne"
+        }, 
+        {
+            "website": "http://www.uky.edu/", 
+            "shortName": "uk", 
+            "id": 127, 
+            "links": {}, 
+            "name": "University of Kentucky"
+        }, 
+        {
+            "website": "http://www.ufl.edu/", 
+            "shortName": "ufl", 
+            "id": 31, 
+            "links": {}, 
+            "name": "University of Florida"
+        }, 
+        {
+            "website": "http://natgeoed.org/", 
+            "shortName": "natgeo", 
+            "id": 154, 
+            "links": {}, 
+            "name": "National Geographic Society"
+        }, 
+        {
+            "website": "http://www.utoronto.ca/", 
+            "shortName": "utoronto", 
+            "id": 11, 
+            "links": {}, 
+            "name": "University of Toronto"
+        }, 
+        {
+            "website": "http://www.cbs.dk/en/", 
+            "shortName": "cbs", 
+            "id": 175, 
+            "links": {}, 
+            "name": "Copenhagen Business School"
+        }, 
+        {
+            "website": "http://www.relay.edu/", 
+            "shortName": "relay", 
+            "id": 104, 
+            "links": {}, 
+            "name": "Relay Graduate School of Education"
+        }, 
+        {
+            "website": "http://www.columbia.edu/", 
+            "shortName": "columbia", 
+            "id": 40, 
+            "links": {}, 
+            "name": "Columbia University"
+        }, 
+        {
+            "website": "http://www.londoninternational.ac.uk/", 
+            "shortName": "london", 
+            "id": 26, 
+            "links": {}, 
+            "name": "University of London"
+        }, 
+        {
+            "website": "http://www.emory.edu/", 
+            "shortName": "emory", 
+            "id": 23, 
+            "links": {}, 
+            "name": "Emory University"
+        }, 
+        {
+            "website": "http://www.jhu.edu/", 
+            "shortName": "jhu", 
+            "id": 8, 
+            "links": {}, 
+            "name": "Johns Hopkins University"
+        }, 
+        {
+            "website": "http://www.ntumooc.org/", 
+            "shortName": "taiwan", 
+            "id": 75, 
+            "links": {}, 
+            "name": "National Taiwan University"
+        }, 
+        {
+            "website": "http://www.uhsa.uh.edu/", 
+            "shortName": "uhs", 
+            "id": 119, 
+            "links": {}, 
+            "name": "University of Houston System"
+        }, 
+        {
+            "website": "http://www.unam.mx/", 
+            "shortName": "unam", 
+            "id": 58, 
+            "links": {}, 
+            "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+        }, 
+        {
+            "website": "http://www.pitt.edu/", 
+            "shortName": "pitt", 
+            "id": 36, 
+            "links": {}, 
+            "name": "University of Pittsburgh"
+        }, 
+        {
+            "website": "http://ualberta.ca/", 
+            "shortName": "ualberta", 
+            "id": 146, 
+            "links": {}, 
+            "name": "University of Alberta"
+        }, 
+        {
+            "website": "http://uci.edu/", 
+            "shortName": "uci", 
+            "id": 30, 
+            "links": {}, 
+            "name": "University of California, Irvine"
+        }, 
+        {
+            "website": "http://psu.edu/", 
+            "shortName": "psu", 
+            "id": 51, 
+            "links": {}, 
+            "name": "The Pennsylvania State University"
+        }, 
+        {
+            "website": "http://www.moma.org/", 
+            "shortName": "moma", 
+            "id": 107, 
+            "links": {}, 
+            "name": "The Museum of Modern Art"
+        }, 
+        {
+            "website": "http://www.princeton.edu/", 
+            "shortName": "princeton", 
+            "id": 4, 
+            "links": {}, 
+            "name": "Princeton University"
+        }, 
+        {
+            "website": "", 
+            "shortName": "cusystem", 
+            "id": 126, 
+            "links": {}, 
+            "name": "University of Colorado System"
+        }, 
+        {
+            "website": "http://www.curtis.edu/", 
+            "shortName": "curtis", 
+            "id": 79, 
+            "links": {}, 
+            "name": "Curtis Institute of Music"
+        }, 
+        {
+            "website": "http://www.uva.nl/", 
+            "shortName": "amsterdam", 
+            "id": 131, 
+            "links": {}, 
+            "name": "University of Amsterdam"
+        }, 
+        {
+            "website": "http://nus.edu.sg/", 
+            "shortName": "nus", 
+            "id": 47, 
+            "links": {}, 
+            "name": "National University of Singapore"
+        }, 
+        {
+            "website": "https://www.washington.edu/", 
+            "shortName": "uw", 
+            "id": 15, 
+            "links": {}, 
+            "name": "University of Washington"
+        }, 
+        {
+            "website": "http://www.pku.edu.cn/", 
+            "shortName": "pku", 
+            "id": 163, 
+            "links": {}, 
+            "name": "Peking University"
+        }, 
+        {
+            "website": "http://case.edu/", 
+            "shortName": "casewestern", 
+            "id": 68, 
+            "links": {}, 
+            "name": "Case Western Reserve University"
+        }, 
+        {
+            "website": "http://www.itesm.edu/", 
+            "shortName": "tecdemonterrey", 
+            "id": 62, 
+            "links": {}, 
+            "name": "Tecnol\u00f3gico de Monterrey"
+        }, 
+        {
+            "website": "http://www.kaist.edu/", 
+            "shortName": "kaist", 
+            "id": 178, 
+            "links": {}, 
+            "name": "Korea Advanced Institute of Science and Technology"
+        }, 
+        {
+            "website": "http://www.tbr.edu/", 
+            "shortName": "tbr", 
+            "id": 122, 
+            "links": {}, 
+            "name": "Tennessee Board of Regents"
+        }, 
+        {
+            "website": "http://amnh.org/", 
+            "shortName": "amnh", 
+            "id": 100, 
+            "links": {}, 
+            "name": "American Museum of Natural History"
+        }
+    ], 
+    "linked": {}
+}
